@@ -14,7 +14,6 @@ public class main {
             appleBox.addFruit(new Apple(1F));
             System.out.println(appleBox.getWeight());
           }
-
         public static void changeArrElements(Object[] array, int a, int b) {
             Object tmp = array[a];
             array[a] = array[b];
