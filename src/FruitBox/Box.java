@@ -7,7 +7,6 @@ public class Box<T extends Fruit> {
 
         public Box() {
         }
-
         public ArrayList<T> getFruitList() {
             return fruitList;
         }
